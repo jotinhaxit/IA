@@ -48,3 +48,26 @@ button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
 }
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+a {
+    text-decoration: none;
+}
+
+footer p {
+    margin-top: 2px;
+}
